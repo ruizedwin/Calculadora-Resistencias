@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculadora RE</string>
+    <string-array name="bandasCol">
+        <item>--Seleccione un color</item>
+        <item>Negro</item>
+        <item>Marrón</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Púrpura</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+    <string-array name="bandasTol">
+        <item>--Seleccione un color--</item>
+        <item>Dorado</item>
+        <item>Plateado</item>
+    </string-array>
+</resources>
